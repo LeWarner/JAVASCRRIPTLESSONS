@@ -1,4 +1,4 @@
-/ variables
+// variables
 
 var spot = {
   x: 100,
